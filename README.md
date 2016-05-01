@@ -13,7 +13,8 @@
 >6.看传智播客c++视频√<br>
 >7.看Design of Computer Programs (Udacity)(周六)<br>
 >8.网易微专业C++课程<br>
->9.STL源码剖析<br> + Effective C++<br>
+>9.STL源码剖析 + Effective C++<br>
+
 -----
 
 ##学校课程
