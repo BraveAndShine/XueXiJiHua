@@ -42,10 +42,10 @@
 ----
 
 #书单
->https://book.douban.com/subject/1173548/(程序设计实践之路)
->https:/https://book.douban.com/subject/1096216//book.douban.com/subject/3227098/（编程珠玑）
->https://book.douban.com/subject/1091086/(深度探索c++对象模型)
->https://book.douban.com/subject/5908727/(More Effective C++)
->https://book.douban.com/subject/1096216/(c++语言的设计与演化)
+>https://book.douban.com/subject/1173548/(程序设计实践之路)<br>
+>https:/https://book.douban.com/subject/1096216//book.douban.com/subject/3227098/（编程珠玑）<br>
+>https://book.douban.com/subject/1091086/(深度探索c++对象模型)<br>
+>https://book.douban.com/subject/5908727/(More Effective C++)<br><br>
+>https://book.douban.com/subject/1096216/(c++语言的设计与演化)<br>
 
 ----
