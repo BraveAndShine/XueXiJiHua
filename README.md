@@ -10,6 +10,7 @@
 >3.Effective java<br>
 >4.汇编语言<br>
 >5.UCSD的高级数据结构(周六)√<br>
+>6.学堂在线|数据结构及其PA<br>
 >6.看传智播客c++视频√<br>
 >7.看Design of Computer Programs (Udacity)(周六)<br>
 >8.网易微专业C++课程<br>
