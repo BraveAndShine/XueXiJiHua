@@ -8,7 +8,7 @@
 >2.0编码√<br>
 >2.1算法导论<br>
 >3.Effective java√<br>
->4.汇编语言<br>
+>4.汇编语言√<br>
 >5.UCSD的高级数据结构(周六)√<br>
 >6.学堂在线|数据结构及其PA<br>
 >6.看传智播客c++视频√<br>
@@ -47,11 +47,11 @@
 ----
 
 #书单
->https://book.douban.com/subject/1173548/ (程序设计实践)<br>
->https://book.douban.com/subject/2152385/(程序设计语言实践之路)<br>
->https://book.douban.com/subject/1096216//book.douban.com/subject/3227098/（编程珠玑）<br>
->https://book.douban.com/subject/1091086/(深度探索c++对象模型)<br>
->https://book.douban.com/subject/5908727/(More Effective C++)<br>
->https://book.douban.com/subject/1096216/(c++语言的设计与演化)<br>
+>[程序设计实践](https://book.douban.com/subject/1173548/) <br>
+>[程序设计语言实践之路](https://book.douban.com/subject/2152385/)<br>
+>[编程珠玑](https://book.douban.com/subject/1096216//book.douban.com/subject/3227098/)<br>
+>[深度探索c++对象模型](https://book.douban.com/subject/1091086/)<br>
+>[More Effective C++](https://book.douban.com/subject/5908727/)<br>
+>[c++语言的设计与演化](https://book.douban.com/subject/1096216/)<br>
 
 ----
