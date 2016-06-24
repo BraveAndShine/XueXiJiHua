@@ -2,6 +2,9 @@
 
 ----
 
+#####学习主要路线:编译原理,c++,写个小型STL,学习操作系统,学习计算机网络,面试
+
+---
 ##自主课程
 
 >1.C++ primer√<br>
@@ -15,15 +18,9 @@
 >7.看Design of Computer Programs (Udacity)(周六) !√<br>
 >8.网易微专业C++课程<br>
 >9.Effective C++<br>
->10.程序语言设计实践之路<br>
 >11.c++标准程序库
 
 -----
-
-##学校课程
->1.线性代数<br>
->2.概率论<br>
-
 -----
 
 #暑假
@@ -50,6 +47,11 @@
 >编译器设计
 
 ----
+
+#c++书单:
+> STL源码剖析<br>
+> [深度探索c++对象模型](https://book.douban.com/subject/1091086/)<br>
+> [c++语言的设计与演化](https://book.douban.com/subject/1096216/)<br>
 
 #书单
 >[程序设计实践](https://book.douban.com/subject/1173548/) <br>
