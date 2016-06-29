@@ -27,6 +27,7 @@
 >1. 把象棋写出来<br>
 >2. 游戏人工智能编程√<br>
 >3. python源码剖析<br>
+>4. 500 lines or less<br>
 >..go on compiler(stanford compiler)
 
 ----
