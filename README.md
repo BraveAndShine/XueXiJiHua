@@ -2,7 +2,7 @@
 
 ----
 
-#####学习主要路线:编译原理(Stanford compiler),c++,写个小型STL,学习操作系统(mit 6.828),学习计算机网络,面试
+#####学习主要路线:编译原理(龙书),c++,写个小型STL,学习操作系统(modern os),学习计算机网络,面试
 
 ---
 ##自主课程
@@ -29,6 +29,8 @@
 >3. python源码剖析<br>
 >4. 500 lines or less<br>
 >..go on compiler(stanford compiler)
+>5.stl源码剖析√<br>
+>6.c专家编程√<br>
 
 ----
 
