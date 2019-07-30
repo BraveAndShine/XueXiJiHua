@@ -50,16 +50,16 @@
 ----
 
 #c++书单:
-1. STL源码剖析<br>
-2. 深度探索c++对象模型](https://book.douban.com/subject/1091086/)<br>
-3. c++语言的设计与演化](https://book.douban.com/subject/1096216/)<br>
+1. STL源码剖析√<br>
+2. 深度探索c++对象模型√](https://book.douban.com/subject/1091086/)<br>
+3. c++语言的设计与演化√](https://book.douban.com/subject/1096216/)<br>
 
 #书单
 >[程序设计实践](https://book.douban.com/subject/1173548/) <br>
 >[程序设计语言实践之路](https://book.douban.com/subject/2152385/)<br>
 >[编程珠玑](https://book.douban.com/subject/1096216//book.douban.com/subject/3227098/)<br>
->[深度探索c++对象模型](https://book.douban.com/subject/1091086/)<br>
->[More Effective C++](https://book.douban.com/subject/5908727/)<br>
+>[深度探索c++对象模型√](https://book.douban.com/subject/1091086/)<br>
+>[More Effective C++√](https://book.douban.com/subject/5908727/)<br>
 >[c++语言的设计与演化](https://book.douban.com/subject/1096216/)<br>
 
 ----
